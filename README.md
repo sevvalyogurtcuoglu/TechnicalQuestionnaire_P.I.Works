@@ -21,6 +21,7 @@ If you want to add a new user, click the new user button and the New User screen
 ![newuser2](https://user-images.githubusercontent.com/33968347/106402567-2619b880-643b-11eb-9732-d9ebbaf2a87b.png)
 
 ### If the administrator wants to hide disabled users;
-*The hide disabled user box can be checked
+
+*The hide **disabled user box** can be checked
 
 ![hide](https://user-images.githubusercontent.com/33968347/106402776-3da57100-643c-11eb-950b-9a608343289b.png)
